@@ -1,0 +1,37 @@
+
+body {background-color: #C6AC8F; color: #9A784F; background-image: url(https://i1.wp.com/yennyliveslife.com/wp-content/uploads/2021/05/Desktop-Wallpapper-1-1024x576.png?ssl=1);}
+
+table {background-color:black; margin-left: auto; margin-right: 
+	auto;border: 3px solid ; border-color: #836953; color: darkred; }
+
+a {color: #241e18; text-decoration: none;}
+
+td {border: #9A784F 1px solid; padding: 10px; background-color: #FFFFED; text-align: center; font-weight: bold;}
+
+tr {padding: 20px;}
+
+th {margin: 50px; text-align: center; font-weight: bold; color: #3F301D; font-size: 25px; 
+	background-color: #FFFFED; }
+
+h1 {letter-spacing: 10px}
+
+img {width: 170px; border: black 2px solid;}
+
+form {text-align: center;}
+
+ul {border: #836953 2px solid;}
+
+.menu {list-style-type: none; background-color: #3F352C; padding: 10px; text-align: center;}
+
+.content {padding: 25px; text-align: center;}
+
+.table-container {width: 60%; margin: auto;}
+
+.cell-content {text-align: center;}
+
+.cell-content img {max-width: 170px; height: auto; margin-bottom: 10px; border: solid 3px; 
+	border-color: #400000;}
+
+.img {size: 30px}
+
+table {width: 100%; border-collapse: collapse; margin: 0 auto;}
